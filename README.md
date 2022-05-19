@@ -37,7 +37,7 @@ Hi, I'm [Chintu](https://github.com/chintustacks), a Final year CS Undergrad ğŸš
 <summary>ğŸ“ˆ My GitHub Stats</summary>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chinurstacks)](https://github.com/anuraghazra/github-readme-stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chintustacks)](https://github.com/anuraghazra/github-readme-stats" /></p>
 
 
 
