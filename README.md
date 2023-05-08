@@ -21,11 +21,11 @@
 
 <br/>
 
-Hi, I'm [Chintu](https://github.com/chintustacks), a Final year CS Undergrad 🚀 from India, currently,I have Worked as an Full stacks Developer at Nuspace Technologies .
+Hi, I'm [Chintu](https://github.com/chintustacks), a Software Developer 🚀 from India, currently,My Core interest in building project on top of Javascript fraewroks .
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm Looking for an SDE Role; 
+- 👨🏽‍💻 I'm Working Professional of 3+ Year as Software Developer .My Expertise in Angular , React , Node and Vue; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/chintu-stacks-780819169/), [@Instagram](https://www.instagram.com/chintustacks/);
 
